@@ -25,6 +25,9 @@ for any integer value of \( n \) greater than 2. The program searches for values
   ```bash
   javac com/fermat/FermatsNearMisses.java
 ```
+```bash
+java com.fermat.FermatsNearMisses
+```
 
 # Usage of Program
 ### It will prompt the user to enter a variable n which is the power, using any nunber between 3 and 11. Then, it will ask the user to enter an uper boundary k which is any number >= 10
