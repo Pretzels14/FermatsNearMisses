@@ -5,9 +5,9 @@ package fermatsNearMiss;
 // External Files: N/A
 // Output Files: N/A
 // Programmers: Connor Presler, Daniyal Farooqui
-// Emails: connorjpresler@lewisu.edu, 
+// Emails: connorjpresler@lewisu.edu, daniyalafarooqui@lewisu.edu
 // Course: CPSC 44000-LT1
-// Date: put finished date
+// Date: 02/16/2025
 // This program helps find near misses for Fermat's Last Theorem, and does so by searching for different values(x,y,z,n,k) that
 // minimize the relative miss for the equation x^n + y^n /= z^n for any n > 2
 
