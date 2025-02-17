@@ -15,7 +15,7 @@ import java.util.Scanner;
 public class FermatsNearMisses {
 	
 	public static void findFermatsNearMisses(int n, int k) {
-		int zValue; // this will be used to give us the z value that provides the smallest miss
+		
 		double smallestRelMiss = Double.MAX_VALUE; // this helps us keep track of the smallest miss found
 		String bestMissDetails = "";
 		
